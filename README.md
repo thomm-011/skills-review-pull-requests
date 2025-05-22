@@ -33,6 +33,8 @@ Now let's see how easy it is to [apply your suggestion](https://docs.github.com/
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
+```- <h1>Bem vindo ao nosso site!</h1>
++ <h1>Bem-vindo ao nosso site!</h1>
 
 <!--
   <<< Author notes: Footer >>>
